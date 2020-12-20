@@ -1,0 +1,15 @@
+package com.luv2code.jdbc;
+
+public class TestJdbc {
+
+	public static void main(String[] args) {
+		String jdbcURL
+		try {
+			
+		} catch (Exception ex) {
+			exc.printStackTrace();
+		}
+
+	}
+
+}
